@@ -1,0 +1,6 @@
+name: Kw Global
+description: Simple form which will accept name in input fields.
+core_version_requirement: ^9 || ^10
+type: module
+package: custom
+configure: kwglobal.configure

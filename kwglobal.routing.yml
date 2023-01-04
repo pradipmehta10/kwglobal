@@ -1,0 +1,7 @@
+kwglobal.configure:
+  path: '/admin/config/kwglobal/settings'
+  defaults:
+    _form: '\Drupal\kwglobal\Form\KwglobalForm'
+    _title: 'KwGloabl Settings'
+  requirements:
+    _access: 'TRUE'

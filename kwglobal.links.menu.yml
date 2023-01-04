@@ -1,0 +1,6 @@
+kwglobal.admin_settings_form:
+  title: 'Configure KwGlobal Form'
+  menu_name: main
+  description: 'KwGlobal Configuration'
+  parent: main
+  route_name: kwglobal.configure
